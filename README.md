@@ -1,2 +1,2 @@
 # PersonalCodeLibraryT1
-This is the Personal Code Library of Kyuka LI.
+就是各种杂七杂八的东西归在一起的1号源码库。

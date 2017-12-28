@@ -1,0 +1,112 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>此网页不存在 - Err Code 404</title>
+<style type="text/css">
+#err {
+	width: 970px;
+	float: left;
+}
+#left {
+	width: 500px !important;
+}
+#ssr {
+	width: 430px;
+	float: left;
+}
+.bold {
+	font-family: PPTi, 微软雅黑, 黑体, sans-serif;
+	font-size: 50px;
+	text-align: center;
+	margin-top: 42px;
+	color: #000000;
+}
+.normal {
+	font-family: PPTi, 微软雅黑, 黑体, sans-serif;
+	font-size: 20px;
+	text-align: center;
+	line-height: 25px;
+	margin-top: 0px;
+	color: rgba(0,0,0,0.7);
+}
+.n {
+	font-family: 微软雅黑, 黑体, sans-serif !important;
+}
+@font-face {
+	font-family: PPTi;
+	src: url(css/HYPPTiJ.ttf);
+	font-weight: bold;
+}
+.xm {
+	font-weight: normal !important;
+}
+.xm a, .xm a:link, .xm a:visited {
+	text-decoration: none;
+	color: #000000;
+}
+.xm a:hover {
+	text-decoration: none;
+	color: #7F7F7E;
+}
+</style>
+</head>
+<link href="css/css.css" type="text/css" rel="stylesheet" />
+<link type="text/javascript" href="css/objectSwap.js" />
+<link rel="icon" href="images/favicon.ico" />
+<body>
+<div id="all">
+  <div id="banner">
+    <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="970" height="170">
+      <param name="movie" value="images/top.swf" />
+      <param name="quality" value="high" />
+      <param name="wmode" value="transparent">
+      <embed src="images/top.swf" wmode="transparent" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="970" height="170"></embed>
+    </object>
+  </div>
+  <div id="mainnav">
+    <ul id="nav" class="navGroup">
+      <li><a href="index.htm">申报书</a></li>
+      <li><a href="zxjj.htm">中心简介</a></li>
+      <li><a href="syjx.htm">实验教学</a></li>
+      <li><a href="szdw.htm">师资队伍</a></li>
+      <li><a href="sygl.htm">实验管理</a></li>
+      <li><a href="sytj.htm">实验条件</a></li>
+      <li><a href="zxts.htm">中心特色</a></li>
+      <li><a href="video/jxlx.html">教学录像</a></li>
+      <li><a href="jxcg.htm">教学成果</a></li>
+      <li><a href="zwpj.htm">自我评价</a></li>
+    </ul>
+  </div>
+  <div id="err">
+    <p class="bold"><span class="normal">&lt;!-- </span>此网页不存在<span class="normal"> --&gt;<br />
+      <span class="n">〒▽〒</span> 你的页面我们也找不到哇~<br />
+      </span></p>
+  </div>
+  <div id="left">
+    <p class="normal" style="text-align:right"><img src="images/404.jpg" width="400" height="440" alt="Page Not Found" />&emsp;</p>
+  </div>
+  <div id="ssr">
+    <p class="xm"><b>Err Code 404 - Not Found</b></p>
+    <p class="xm">此网页不存在，原因：</p>
+    <p class="xm" style="text-indent: 2em">1. 此网页可能没有发布，或者已被删除，也可能由于错误的链接把您带到了这里。</p>
+    <p class="xm" style="text-indent: 2em">2. 此网站可能暂时关闭访问，正在进行安全检查升级。</p>
+    <p class="zw">&nbsp;</p>
+    <p class="xm"><span style="font-weight: normal">如有疑问，请您及时与网站管理负责人取得联系。</span></p>
+    <p class="zw">&nbsp;</p>
+    <p class="xm"><a href="index.htm">返回首页</a>&nbsp;&nbsp;&nbsp;&nbsp;&#124;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://life.scnu.edu.cn" target="_blank">访问生命科学学院主页</a></p>
+    <p class="zw">&nbsp;</p>
+    <p class="zw">&nbsp;</p>
+    <p class="zw">&nbsp;</p>
+  </div>
+  <div id="footer">
+    <blockquote><b>内部测试</b><br />
+      版权所有 (C) 2008-2017 <a href="http://life.scnu.edu.cn">华南师范大学生命科学学院</a>. <br />
+      技术支持: 李泽明 <a href="mailto:lizm@m.scnu.edu.cn">lizm@m.scnu.edu.cn</a></blockquote>
+  </div>
+</div>
+<!-- Page 404 --> 
+<!-- CopyRight (C) 2009-2017 Li Zeming. --> 
+<!-- 大扎好，我系轱天乐，我四渣渣辉，探挽懒月，介四里没有挽过的船新版本，挤需体验三番钟，里造会干我一样，爱象节款游戏。你知道吗？生科院有7层楼哦~（不包括天台） -->
+</body>
+</html>
